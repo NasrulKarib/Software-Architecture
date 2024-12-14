@@ -1,0 +1,19 @@
+How SundarBan Could Be a Liability for Amazon:
+
+1. Limited Global Scalability  
+   - Relies on local payment gateways (bKash, Nagad), which don’t support Amazon's global reach.  
+
+2. Redundant Operations  
+   - SundarBan's systems might overlap with Amazon’s existing payment and logistics platforms.  
+
+3. Integration Challenges  
+   - Technical incompatibility with Amazon's platform may lead to costly migration. 
+ 
+4. Political Instability
+   - Political challenges, including demands for high commissions from local authorities, could raise operational and financial risks for a new foreign company.
+
+5. Regulatory Issues
+   - Compliance with Bangladeshi laws could increase legal and operational complexity.  
+
+6. Reputation Risks  
+   - Any service issues with SundarBan could hurt Amazon’s brand in Bangladesh.  
